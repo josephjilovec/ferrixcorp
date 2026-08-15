@@ -1,6 +1,6 @@
-# Ferrix Corp
+# Crestline Metals
 
-Corporate website for Ferrix Corp, a Pennsylvania-based industrial manufacturing venture.
+Corporate website for Crestline Metals, a Pennsylvania-based industrial manufacturing venture.
 
 ## Positioning
 
@@ -33,7 +33,7 @@ This architecture can later be split into dedicated pages without changing the d
 
 ## Production facts that should be verified before publishing
 
-Do not add or imply specific operational facts until they are confirmed by Ferrix management. In particular, verify before publication:
+Do not add or imply specific operational facts until they are confirmed by Crestline Metals management. In particular, verify before publication:
 
 - Facility street addresses and legal headquarters
 - Production capacity or annual tonnage
@@ -47,15 +47,15 @@ Do not add or imply specific operational facts until they are confirmed by Ferri
 
 ## Contact form
 
-The form UI and validation are complete, but outbound routing is intentionally not connected to an invented email address or third-party endpoint. Connect the form to Ferrix's approved email, CRM, FormSubmit/Web3Forms account, or a Vercel serverless endpoint before public launch.
+The form UI and validation are complete, but outbound routing is intentionally not connected to an invented email address or third-party endpoint. Connect the form to Crestline Metals' approved email, CRM, FormSubmit/Web3Forms account, or a Vercel serverless endpoint before public launch.
 
 ## Photography
 
-The initial design references free-to-use industrial photography hosted by Pexels for the hero, operations, and careers imagery. For a final institutional website, replace stock imagery with owned photography from actual Ferrix facilities as soon as it becomes available.
+The initial design references free-to-use industrial photography hosted by Pexels for the hero, operations, and careers imagery. For a final institutional website, replace stock imagery with owned photography from actual Crestline Metals facilities as soon as it becomes available.
 
 ## Deploy on Vercel
 
-Import `josephjilovec/ferrixcorp` into Vercel. The repository requires no build command. Vercel can serve the root `index.html` directly.
+Import this repository into Vercel. The repository requires no build command. Vercel can serve the root `index.html` directly.
 
 ## Primary file
 
